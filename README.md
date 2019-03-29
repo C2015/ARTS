@@ -4,8 +4,5 @@ ARTS 是 Algorithm、Review、Technique、Share 的简称，即每周至少做�
 ## 目录
 |     时间      | 算法 |                             文章                             | 技巧 | 分享 |  完成度  |
 | :-----------: | :--: | :----------------------------------------------------------: | :--: | :--: |:--:|
-| 03-18 |      | [10个JS开发者应该知道的面试问题](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) |      |      | - [x] 完成 |
-| 03-25           |  [两数之和](https://leetcode-cn.com/problems/two-sum/solution/)    |              |      |    |   - [] 完成  |
-
-
- - [x] 你好 
+| 03-18 |      | [10个JS开发者应该知道的面试问题](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) |      |      | 未完成 |
+| 03-25           |  [两数之和](https://leetcode-cn.com/problems/two-sum/solution/)    |              |      |    |     |
