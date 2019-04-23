@@ -6,4 +6,4 @@ ARTS 是 Algorithm、Review、Technique、Share 的简称，即每周至少做�
 | :-----------: | :--: | :----------------------------------------------------------: | :--: | :--: |:--:|
 | 03-18 |    [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)  | [10个JS开发者应该知道的面试问题](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) |      |      | 未完成 |
 | 03-25           |  [两数之和](https://leetcode-cn.com/problems/two-sum/solution/)    |              |      |    |  未完成   |
-| 04-01|  [两数相加](https://leetcode-cn.com/problems/add-two-numbers/submissions/)   |   | |  未完成 |
+| 04-22|  [两数相加](https://leetcode-cn.com/problems/add-two-numbers/submissions/)   |   | |   |未完成|
