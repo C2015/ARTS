@@ -8,4 +8,4 @@ ARTS 是 Algorithm、Review、Technique、Share 的简称，即每周至少做�
 | 03-25           |  [两数之和](https://leetcode-cn.com/problems/two-sum/solution/)    |              |      |    |  未完成   |
 | 04-22|  [两数相加](https://leetcode-cn.com/problems/add-two-numbers/submissions/)   |[JS的代价](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)   | |   |未完成|
 | 04-29|  [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)   || |   |未完成|
-| 05-06|     || |   |未完成|
+| 05-06|   [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)  || [html lang 属性的使用和作用](https://github.com/C2015/ARTS/issues/1)|   |未完成|
