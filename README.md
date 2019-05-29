@@ -10,3 +10,5 @@ ARTS 是 Algorithm、Review、Technique、Share 的简称，即每周至少做�
 | 04-29|  [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)   || |   |未完成|
 | 05-06|   [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)  || [html lang 属性的使用和作用](https://github.com/C2015/ARTS/issues/1)|   |未完成|
 | 05-13 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) |  |[Git 合并多个commit](https://github.com/C2015/ARTS/issues/2)   |  | 未完成 |
+| 05-20 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) |  |   |  | 未完成 |
+| 05-27 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/submissions/) |  |   |  | 未完成 |
