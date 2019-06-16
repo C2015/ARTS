@@ -13,5 +13,5 @@ ARTS 是 Algorithm、Review、Technique、Share 的简称，即每周至少做�
 | 05-20 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) |  |   |  | 未完成 |
 | 05-27 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/submissions/) |  |   |  | 未完成 |
 | 06-03 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/submissions/)||||未完成|
-| 06-10 | | |[事件的绑定和移除](https://github.com/C2015/ARTS/issues/3) | | 未完成|
+| 06-10 |[买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/) | |[事件的绑定和移除](https://github.com/C2015/ARTS/issues/3) | | 未完成|
 
